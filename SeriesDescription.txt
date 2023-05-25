@@ -1,0 +1,5 @@
+目前课题组四台机器的T1序列描述如下（序列字段的位置需要改为[0x0008, 0x103e]）：
+BNUOLD: 't1_mprage_sag_1x1x1_p2_20ch'
+BNUNEW: 't1_mprage_sag_tr1900'
+TT: 't1_mprage_sag_p2_iso'
+PETMR: 'Ax 3D BRAVO'
