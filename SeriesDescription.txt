@@ -1,5 +1,18 @@
 目前课题组四台机器的T1序列描述如下（序列字段的位置需要改为[0x0008, 0x103e]）：
+
+1. T1
 BNUOLD: 't1_mprage_sag_1x1x1_p2_20ch'
 BNUNEW: 't1_mprage_sag_tr1900'
 TT: 't1_mprage_sag_p2_iso'
 PETMR: 'Ax 3D BRAVO'
+
+2. DTI
+BNUOLD: 'DTI_30_2x2x2_128x128_b1000_p2'
+BNUNEW: 'DTI_BP_64_2x2x2_s2_p2_6-8'
+TT: 'ep2d_diff_mddw_30_p2'
+PETMR: 'Ax DTI 30 Directions'
+
+3. REST
+BNUOLD: 'ge_func_3x3x4_240_RS'
+BNUNEW: 'bold_80x80_s2_2.5iso_tr2000'
+TT: 'bold_rest_TR2000_p2'
